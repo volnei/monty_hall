@@ -36,3 +36,7 @@ To run the Monty Hall problem algorithm from the GitHub project using Bun, follo
 
 5. See the results in console 
 
+
+# Motivation
+
+To understand more about the Monty Hall problem, read this article in portuguese: [Além da Intuição: O Surpreendente Problema de Monty Hall](https://volneigm.medium.com/al%C3%A9m-da-intui%C3%A7%C3%A3o-o-surpreendente-problema-de-monty-hall-9665f1f3e144)
